@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f26be295188b162ae400ebb764191d49",
+    "revision": "ea356d057b2dbeff170bfd9b16a26e9e",
     "url": "/speedGame/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/speedGame/static/css/2.a6b37085.chunk.css"
   },
   {
-    "revision": "64cc69689a3fe7d3d938",
+    "revision": "7db5bd0df0a912d86c6d",
     "url": "/speedGame/static/css/main.53d8e3e8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/speedGame/static/js/2.149033e1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "64cc69689a3fe7d3d938",
-    "url": "/speedGame/static/js/main.62df99bd.chunk.js"
+    "revision": "7db5bd0df0a912d86c6d",
+    "url": "/speedGame/static/js/main.4540e9a8.chunk.js"
   },
   {
     "revision": "92c0bfd264595d057c95",

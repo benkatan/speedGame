@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/speedGame/precache-manifest.d54c530f32ada4215b8c76f35e329a3f.js"
+  "/speedGame/precache-manifest.98f468515b703a14d3dd64ea39203a6c.js"
 );
 
 self.addEventListener('message', (event) => {
