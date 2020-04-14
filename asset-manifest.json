@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/speedGame/static/css/main.53d8e3e8.chunk.css",
-    "main.js": "/speedGame/static/js/main.4540e9a8.chunk.js",
-    "main.js.map": "/speedGame/static/js/main.4540e9a8.chunk.js.map",
+    "main.css": "/speedGame/static/css/main.806db936.chunk.css",
+    "main.js": "/speedGame/static/js/main.806a095c.chunk.js",
+    "main.js.map": "/speedGame/static/js/main.806a095c.chunk.js.map",
     "runtime-main.js": "/speedGame/static/js/runtime-main.e0615952.js",
     "runtime-main.js.map": "/speedGame/static/js/runtime-main.e0615952.js.map",
     "static/css/2.a6b37085.chunk.css": "/speedGame/static/css/2.a6b37085.chunk.css",
     "static/js/2.149033e1.chunk.js": "/speedGame/static/js/2.149033e1.chunk.js",
     "static/js/2.149033e1.chunk.js.map": "/speedGame/static/js/2.149033e1.chunk.js.map",
     "index.html": "/speedGame/index.html",
-    "precache-manifest.98f468515b703a14d3dd64ea39203a6c.js": "/speedGame/precache-manifest.98f468515b703a14d3dd64ea39203a6c.js",
+    "precache-manifest.de9862256cf9b59ebecdfe3b8ec68d4a.js": "/speedGame/precache-manifest.de9862256cf9b59ebecdfe3b8ec68d4a.js",
     "service-worker.js": "/speedGame/service-worker.js",
     "static/css/2.a6b37085.chunk.css.map": "/speedGame/static/css/2.a6b37085.chunk.css.map",
-    "static/css/main.53d8e3e8.chunk.css.map": "/speedGame/static/css/main.53d8e3e8.chunk.css.map",
+    "static/css/main.806db936.chunk.css.map": "/speedGame/static/css/main.806db936.chunk.css.map",
     "static/js/2.149033e1.chunk.js.LICENSE.txt": "/speedGame/static/js/2.149033e1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e0615952.js",
     "static/css/2.a6b37085.chunk.css",
     "static/js/2.149033e1.chunk.js",
-    "static/css/main.53d8e3e8.chunk.css",
-    "static/js/main.4540e9a8.chunk.js"
+    "static/css/main.806db936.chunk.css",
+    "static/js/main.806a095c.chunk.js"
   ]
 }
